@@ -1,5 +1,5 @@
 const email_newsletter = document.getElementById("email_newsletter")
-// var axios = require('axios');
+var axios = require('axios');
 
 function subscribeMailingList() {
     
