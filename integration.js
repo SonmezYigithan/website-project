@@ -1,5 +1,4 @@
 const email_newsletter = document.getElementById("email_newsletter")
-//var axios = require('axios');
 
 axios({
             url: "https://ingest.encharge.io/v1",
